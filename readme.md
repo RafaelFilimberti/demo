@@ -1,6 +1,6 @@
 # demo
 
-Learning Githu
+Learning Github
 
 Falar outra coisa aqui
 - Outra linha
